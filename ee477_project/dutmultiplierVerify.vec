@@ -1,0 +1,13 @@
+radix 3 4 1
+io i i i  
+vname A<[3:1]> B<[3:0]> A<0>
+tunit ns
+slope 0.01
+vih 1.8
+vil 0.0
+
+0   2 0 1
+5   2 0 0 
+10  2 0 1
+
+
