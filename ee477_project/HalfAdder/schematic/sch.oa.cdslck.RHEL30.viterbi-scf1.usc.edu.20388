@@ -13,4 +13,4 @@ AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
 FilePathUsedToEditLock         /home/scf-20/sudhansy/cds/ee477Project/ee477_project/HalfAdder/schematic/sch.oa.cdslck.dirlck
-TimeEditLocked                 Mon Nov  6 12:16:17 2017 PST
+TimeEditLocked                 Mon Nov  6 12:59:31 2017 PST
