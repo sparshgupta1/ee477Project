@@ -9,13 +9,14 @@ tmp1 = make_sevOutputStruct()
 tmp1 = (ncons nil)
 )
 tmp1->inLastSet = nil
-tmp1->name = nil
+tmp1->definedIn = "XYZ"
+tmp1->name = "DUT_Q3"
 tmp1->expression = nil
-tmp1->signal = "/net31"
-tmp1->scriptFile = nil
+tmp1->signal = "/net27"
+tmp1->scriptFile = ""
 tmp1->type2 = nil
 tmp1->evalType = nil
-tmp1->displayIt = nil
+tmp1->displayIt = 't
 tmp1->internalName = nil
 tmp1->masterName = nil
 tmp1->masterScriptFile = nil
@@ -64,13 +65,14 @@ tmp1 = make_sevOutputStruct()
 tmp1 = (ncons nil)
 )
 tmp1->inLastSet = nil
-tmp1->name = nil
+tmp1->definedIn = "XYZ"
+tmp1->name = "dut_Q2"
 tmp1->expression = nil
-tmp1->signal = "/net32"
-tmp1->scriptFile = nil
+tmp1->signal = "/net25"
+tmp1->scriptFile = ""
 tmp1->type2 = nil
 tmp1->evalType = nil
-tmp1->displayIt = nil
+tmp1->displayIt = 't
 tmp1->internalName = nil
 tmp1->masterName = nil
 tmp1->masterScriptFile = nil
@@ -119,13 +121,14 @@ tmp1 = make_sevOutputStruct()
 tmp1 = (ncons nil)
 )
 tmp1->inLastSet = nil
-tmp1->name = nil
+tmp1->definedIn = "XYZ"
+tmp1->name = "dut_Q1"
 tmp1->expression = nil
-tmp1->signal = "/net30"
-tmp1->scriptFile = nil
+tmp1->signal = "/net24"
+tmp1->scriptFile = ""
 tmp1->type2 = nil
 tmp1->evalType = nil
-tmp1->displayIt = nil
+tmp1->displayIt = 't
 tmp1->internalName = nil
 tmp1->masterName = nil
 tmp1->masterScriptFile = nil
@@ -174,13 +177,14 @@ tmp1 = make_sevOutputStruct()
 tmp1 = (ncons nil)
 )
 tmp1->inLastSet = nil
-tmp1->name = nil
+tmp1->definedIn = "XYZ"
+tmp1->name = "dut_Q0"
 tmp1->expression = nil
-tmp1->signal = "/net29"
-tmp1->scriptFile = nil
+tmp1->signal = "/net22"
+tmp1->scriptFile = ""
 tmp1->type2 = nil
 tmp1->evalType = nil
-tmp1->displayIt = nil
+tmp1->displayIt = 't
 tmp1->internalName = nil
 tmp1->masterName = nil
 tmp1->masterScriptFile = nil
@@ -229,13 +233,14 @@ tmp1 = make_sevOutputStruct()
 tmp1 = (ncons nil)
 )
 tmp1->inLastSet = nil
-tmp1->name = nil
+tmp1->definedIn = "XYZ"
+tmp1->name = "dut_R3"
 tmp1->expression = nil
-tmp1->signal = "/net22"
-tmp1->scriptFile = nil
+tmp1->signal = "/net29"
+tmp1->scriptFile = ""
 tmp1->type2 = nil
 tmp1->evalType = nil
-tmp1->displayIt = nil
+tmp1->displayIt = 't
 tmp1->internalName = nil
 tmp1->masterName = nil
 tmp1->masterScriptFile = nil
@@ -253,7 +258,7 @@ tmp1 = (let
 tmp1 = 'color
 tmp2 = (let
 (tmp1 tmp2)
-tmp1 = "y6"
+tmp1 = "y9"
 tmp2 = "drawing"
 list(tmp1 tmp2)
 )
@@ -284,13 +289,14 @@ tmp1 = make_sevOutputStruct()
 tmp1 = (ncons nil)
 )
 tmp1->inLastSet = nil
-tmp1->name = nil
+tmp1->definedIn = "XYZ"
+tmp1->name = "dut_R2"
 tmp1->expression = nil
-tmp1->signal = "/net24"
-tmp1->scriptFile = nil
+tmp1->signal = "/net30"
+tmp1->scriptFile = ""
 tmp1->type2 = nil
 tmp1->evalType = nil
-tmp1->displayIt = nil
+tmp1->displayIt = 't
 tmp1->internalName = nil
 tmp1->masterName = nil
 tmp1->masterScriptFile = nil
@@ -308,7 +314,7 @@ tmp1 = (let
 tmp1 = 'color
 tmp2 = (let
 (tmp1 tmp2)
-tmp1 = "y7"
+tmp1 = "y8"
 tmp2 = "drawing"
 list(tmp1 tmp2)
 )
@@ -339,13 +345,14 @@ tmp1 = make_sevOutputStruct()
 tmp1 = (ncons nil)
 )
 tmp1->inLastSet = nil
-tmp1->name = nil
+tmp1->definedIn = "XYZ"
+tmp1->name = "dut_R1"
 tmp1->expression = nil
-tmp1->signal = "/net25"
-tmp1->scriptFile = nil
+tmp1->signal = "/net32"
+tmp1->scriptFile = ""
 tmp1->type2 = nil
 tmp1->evalType = nil
-tmp1->displayIt = nil
+tmp1->displayIt = 't
 tmp1->internalName = nil
 tmp1->masterName = nil
 tmp1->masterScriptFile = nil
@@ -363,7 +370,7 @@ tmp1 = (let
 tmp1 = 'color
 tmp2 = (let
 (tmp1 tmp2)
-tmp1 = "y8"
+tmp1 = "y7"
 tmp2 = "drawing"
 list(tmp1 tmp2)
 )
@@ -394,13 +401,14 @@ tmp1 = make_sevOutputStruct()
 tmp1 = (ncons nil)
 )
 tmp1->inLastSet = nil
-tmp1->name = nil
+tmp1->definedIn = "XYZ"
+tmp1->name = "dut_R0"
 tmp1->expression = nil
-tmp1->signal = "/net27"
-tmp1->scriptFile = nil
+tmp1->signal = "/net31"
+tmp1->scriptFile = ""
 tmp1->type2 = nil
 tmp1->evalType = nil
-tmp1->displayIt = nil
+tmp1->displayIt = 't
 tmp1->internalName = nil
 tmp1->masterName = nil
 tmp1->masterScriptFile = nil
@@ -418,7 +426,7 @@ tmp1 = (let
 tmp1 = 'color
 tmp2 = (let
 (tmp1 tmp2)
-tmp1 = "y9"
+tmp1 = "y6"
 tmp2 = "drawing"
 list(tmp1 tmp2)
 )

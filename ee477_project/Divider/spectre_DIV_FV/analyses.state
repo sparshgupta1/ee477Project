@@ -18,7 +18,11 @@ analysis(tran fields paramTime) ""
 analysis(tran fields paramValue) ""
 analysis(tran fields param_file) ""
 analysis(tran fields param_vec) nil
+<<<<<<< HEAD
 analysis(tran fields stop) "40n"
+=======
+analysis(tran fields stop) "20n"
+>>>>>>> 75ef41f73aa42235d9b7c2c1a058eb18f18bea3a
 analysis(tran fields tranNoise) ""
 analysis(tran fields tranNoiseMultiRuns) ""
 analysis(tran options acnames) nil
