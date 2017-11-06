@@ -1,0 +1,12 @@
+radix 4 4
+io i i  
+vname D[3:0] d[3:0]
+tunit ns
+slope 0.01
+vih 1.8
+vil 0.0
+
+0 E 3
+10 1 1
+
+
