@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Mon Nov  6 13:15:44 2017 PST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/scf-08/kbhardwa/cds/ee477Project/ee477_project/FullSubtractor/schematic/sch.oa.cdslck
-TimeEditLocked                 Mon Nov  6 13:40:30 2017 PST
+FilePathUsedToEditLock         /home/scf-08/kbhardwa/cds/ee477Project/ee477_project/FullSubtractor/symbol/symbol.oa.cdslck
+TimeEditLocked                 Mon Nov  6 13:39:29 2017 PST
