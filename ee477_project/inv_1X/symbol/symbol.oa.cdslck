@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      sparshgu
+HostName                       viterbi-scf1.usc.edu
+ProcessIdentifier              32678
+ProcessCreationTime_UTC        1510761629
+ProcessCreationTime_Readable   Wed Nov 15 08:00:29 2017 PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/scf-19/sparshgu/cds/ee477Project/ee477_project/inv_1X/symbol/symbol.oa.cdslck
+TimeEditLocked                 Wed Nov 15 08:14:05 2017 PST
