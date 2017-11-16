@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Wed Nov 15 14:11:45 2017 PST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/scf-19/sparshgu/cds/ee477Project/ee477_project/MUX2to1_1b/schematic/sch.oa.cdslck
-TimeEditLocked                 Wed Nov 15 14:20:06 2017 PST
+FilePathUsedToEditLock         /home/scf-19/sparshgu/cds/ee477Project/ee477_project/MUX2to1_1b/symbol/symbol.oa.cdslck
+TimeEditLocked                 Wed Nov 15 17:05:26 2017 PST
