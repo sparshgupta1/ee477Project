@@ -96,7 +96,7 @@
 	)
     ) 
     (otherParameters 
-	((data "010010111110") 
+	((data "1011011101") 
 	    (rptstart "1") 
 	    (rpttimes "0")
 	)
