@@ -51,7 +51,7 @@
     (nodes 
 	("B0" "/gnd!")
     ) 
-    (enabled nil) 
+    (enabled t) 
     (tranType "dc") 
     (srcType "Voltage")
     (instParameters 
@@ -97,7 +97,7 @@
     (nodes 
 	("B1" "/gnd!")
     ) 
-    (enabled nil) 
+    (enabled t) 
     (tranType "dc") 
     (srcType "Voltage")
     (instParameters 
@@ -143,7 +143,7 @@
     (nodes 
 	("B2" "/gnd!")
     ) 
-    (enabled nil) 
+    (enabled t) 
     (tranType "dc") 
     (srcType "Voltage")
     (instParameters 
@@ -189,7 +189,7 @@
     (nodes 
 	("B3" "/gnd!")
     ) 
-    (enabled nil) 
+    (enabled t) 
     (tranType "dc") 
     (srcType "Voltage")
     (instParameters 
@@ -235,7 +235,7 @@
     (nodes 
 	("A0" "/gnd!")
     ) 
-    (enabled nil) 
+    (enabled t) 
     (tranType "dc") 
     (srcType "Voltage")
     (instParameters 
@@ -281,7 +281,7 @@
     (nodes 
 	("A3" "/gnd!")
     ) 
-    (enabled nil) 
+    (enabled t) 
     (tranType "dc") 
     (srcType "Voltage")
     (instParameters 
@@ -327,7 +327,7 @@
     (nodes 
 	("A2" "/gnd!")
     ) 
-    (enabled nil) 
+    (enabled t) 
     (tranType "dc") 
     (srcType "Voltage")
     (instParameters 
@@ -373,7 +373,7 @@
     (nodes 
 	("A1" "/gnd!")
     ) 
-    (enabled nil) 
+    (enabled t) 
     (tranType "dc") 
     (srcType "Voltage")
     (instParameters 
@@ -420,44 +420,22 @@
 	("RST" "/gnd!")
     ) 
     (enabled t) 
-    (tranType "dc") 
+    (tranType "bit") 
     (srcType "Voltage")
     (instParameters 
-	(dc("1.8") 
-	    mag("") 
-	    phase("") 
-	    (xfmag "") 
-	    (pacmag "")
-	    (pacphase "") 
-	    (tc1 "") 
-	    (tc2 "") 
-	    (tnom "") 
-	    type("dc")
+	((val1 "1.8") 
+	    (val0 "0") 
+	    delay("0") 
+	    (rise "10p") 
+	    (fall "10p")
+	    (period "10n") 
+	    type("bit")
 	)
     ) 
     (otherParameters 
-	((noisefile "") 
-	    (FNpairs "0") 
-	    (F1 "") 
-	    (N1 "") 
-	    (F2 "")
-	    (N2 "") 
-	    (F3 "") 
-	    (N3 "") 
-	    (F4 "") 
-	    (N4 "")
-	    (F5 "") 
-	    (N5 "") 
-	    (F6 "") 
-	    (N6 "") 
-	    (F7 "")
-	    (N7 "") 
-	    (F8 "") 
-	    (N8 "") 
-	    (F9 "") 
-	    (N9 "")
-	    (F10 "") 
-	    (N10 "")
+	((data "101") 
+	    (rptstart "1") 
+	    (rpttimes "0")
 	)
     )
 )
@@ -474,7 +452,7 @@
 	    delay("") 
 	    (rise "10p") 
 	    (fall "10p")
-	    (period "2.5n") 
+	    (period "2.15n") 
 	    type("bit")
 	)
     ) 

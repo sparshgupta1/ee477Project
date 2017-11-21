@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      kbhardwa
+HostName                       viterbi-scf1.usc.edu
+ProcessIdentifier              28039
+ProcessCreationTime_UTC        1511239065
+ProcessCreationTime_Readable   Mon Nov 20 20:37:45 2017 PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/scf-08/kbhardwa/cds/ee477Project/ee477_project/FSM_Mult_DIV_Final/schematic/sch.oa.cdslck
+TimeEditLocked                 Mon Nov 20 22:52:12 2017 PST
