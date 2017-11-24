@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      sudhansy
 HostName                       viterbi-scf1.usc.edu
-ProcessIdentifier              16745
-ProcessCreationTime_UTC        1511514962
-ProcessCreationTime_Readable   Fri Nov 24 01:16:02 2017 PST
+ProcessIdentifier              19784
+ProcessCreationTime_UTC        1511114782
+ProcessCreationTime_Readable   Sun Nov 19 10:06:22 2017 PST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/scf-20/sudhansy/cds/ee477Project/ee477_project/NAND2_1X/layout/layout.oa.cdslck.dirlck
-TimeEditLocked                 Fri Nov 24 01:30:35 2017 PST
+FilePathUsedToEditLock         /home/scf-20/sudhansy/cds/ee477Project/ee477_project/FullSubMux/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Sun Nov 19 16:37:51 2017 PST
