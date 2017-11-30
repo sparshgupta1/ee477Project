@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Thu Nov 30 01:55:30 2017 PST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/scf-08/kbhardwa/cds/ee477Project/ee477_project/FSM_Mult_DIV_Final/layout/layout.oa.cdslck
-TimeEditLocked                 Thu Nov 30 04:20:00 2017 PST
+FilePathUsedToEditLock         /home/scf-08/kbhardwa/cds/ee477Project/ee477_project/D_FF_Sync_Reset/layout/layout.oa.cdslck.dirlck
+TimeEditLocked                 Thu Nov 30 02:45:04 2017 PST

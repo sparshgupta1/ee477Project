@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      kbhardwa
 HostName                       viterbi-scf1.usc.edu
-ProcessIdentifier              28219
-ProcessCreationTime_UTC        1512035730
-ProcessCreationTime_Readable   Thu Nov 30 01:55:30 2017 PST
+ProcessIdentifier              8248
+ProcessCreationTime_UTC        1512024367
+ProcessCreationTime_Readable   Wed Nov 29 22:46:07 2017 PST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/scf-08/kbhardwa/cds/ee477Project/ee477_project/FSM_Mult_DIV_Final/layout/layout.oa.cdslck
-TimeEditLocked                 Thu Nov 30 04:20:00 2017 PST
+FilePathUsedToEditLock         /home/scf-08/kbhardwa/cds/ee477Project/ee477_project/D_FF_Sync_Reset/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Wed Nov 29 23:12:41 2017 PST
