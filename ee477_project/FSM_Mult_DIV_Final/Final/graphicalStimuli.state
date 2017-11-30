@@ -474,7 +474,7 @@
 	    delay("") 
 	    (rise "10p") 
 	    (fall "10p")
-	    (period "2.5n") 
+	    (period "2.15n") 
 	    type("bit")
 	)
     ) 
