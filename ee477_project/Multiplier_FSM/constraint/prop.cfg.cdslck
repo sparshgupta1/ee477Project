@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      sudhansy
+HostName                       viterbi-scf1.usc.edu
+ProcessIdentifier              17953
+ProcessCreationTime_UTC        1512044490
+ProcessCreationTime_Readable   Thu Nov 30 04:21:30 2017 PST
+AppIdentifier                  /usr/local/cadence/IC615/tools/dfII/bin/32bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/scf-20/sudhansy/cds/ee477Project/ee477_project/Multiplier_FSM/constraint/prop.cfg
+TimeEditLocked                 Thu Nov 30 04:26:14 2017 PST

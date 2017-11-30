@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      sudhansy
+HostName                       viterbi-scf1.usc.edu
+ProcessIdentifier              17953
+ProcessCreationTime_UTC        1512044493
+ProcessCreationTime_Readable   Thu Nov 30 04:21:33 2017 PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/scf-20/sudhansy/cds/ee477Project/ee477_project/Multiplier_FSM/constraint/hierDesign.oa.cdslck
+TimeEditLocked                 Thu Nov 30 04:26:14 2017 PST
