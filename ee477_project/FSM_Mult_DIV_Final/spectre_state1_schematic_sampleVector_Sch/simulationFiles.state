@@ -1,0 +1,13 @@
+EVcdFile ""
+EVcdInfoFile ""
+VcdFile ""
+VcdInfoFile ""
+VectorFile ("/home/scf-08/kbhardwa/cds/VectorFiles/fsmSampleTestVector.vec")
+allDefinitionFiles nil
+allIncludedPaths nil
+allStimulusFiles nil
+allVectorFiles ((nil "/home/scf-20/sudhansy/cds/ee477Project/ee477_project/fsmSampleTestVector.vec" "off") (t "/home/scf-08/kbhardwa/cds/VectorFiles/fsmSampleTestVector.vec" "off"))
+definitionFiles nil
+hlcheck "off"
+includePath ""
+stimulusFile nil
